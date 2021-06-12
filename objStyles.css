@@ -1,0 +1,33 @@
+body {
+   background-image: linear-gradient(90deg,rgb(0, 162, 255), rgb(0, 0, 0));
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    width: 40%;
+    height: 35px;
+    border-radius: 50px;
+    font: bold;
+    font-style: oblique;
+    color: rgb(240, 241, 245);
+}
+h2{
+    text-align: center;
+    background-color: black;
+    width: 20%;
+    height: 30px;
+    border-radius: 50px;
+    font: bold;
+    font-style: oblique;
+    color: rgb(253, 253, 253);
+
+}
+
+.button {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(0, 217, 255);
+    border-radius: 100px;
+    border-color: white;
+
+}
